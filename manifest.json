@@ -1,6 +1,6 @@
 {
-    "name": "Injector",
-    "description": "Inject Your Custom Inline JavaScript And Script Src Link Into Any Website.",
+    "name": "Chrome Extensions Injector",
+    "description": "Esegue codice restituito da api dinamicamente in una lista di siti anch'essa restituita da api",
     "manifest_version": 3,
     "version": "0.0.0.5",
     "content_scripts": [
